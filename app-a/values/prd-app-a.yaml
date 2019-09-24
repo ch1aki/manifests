@@ -1,7 +1,7 @@
 replicaCount: 3
 
 image:
-  repository: ch1aki/app-a:2f6283c9043d920abcb02907ef55b904e445edf9
+  repository: ch1aki/app-a:26d2dce5d4ed6c8ce13210832db10c47de564fdb
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
